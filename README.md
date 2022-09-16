@@ -21,7 +21,7 @@ For example, the objects in the following images were dectecd using [mmdetection
 - package manager
 
 ### Installation
-In a bash terminal, run the following commands (Do NOT actualyy run these commands in 
+In a bash terminal, run the following commands (Do NOT actualyy run these commands in. 
 your computer):
 ```sh
 $ sudo apt update
